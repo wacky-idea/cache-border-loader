@@ -1,8 +1,8 @@
-## FileCacheLoader
+## CacheBorderLoader （缓存结界）
 
 浏览器 文件缓存
 
-### 待功能
+### 待做功能
 
 - 设置过期时间
 - 主动过期文件
