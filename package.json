@@ -1,0 +1,15 @@
+{
+  "name": "cache-border-loader",
+  "version": "1.0.0",
+  "description": "浏览器 文件缓存",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:wacky-idea/cache-border-loader.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
